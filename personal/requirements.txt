@@ -1,0 +1,8 @@
+langgraph
+langchain-core
+langchain-google-genai
+screen-brightness-control
+python-dotenv
+SpeechRecognition
+pyaudio
+pyttsx3
